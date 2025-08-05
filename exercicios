@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Portal Hello Kitty</title>
+</head>
+<body>
+
+  <h1>🎀 Portal Hello Kitty</h1>
+
+  <img src="imagens/hello-kitty-banner.jpg" alt="Banner da Hello Kitty" width="100%">
+
+  <h2>Menu</h2>
+  <ul>
+    <li><a href="#">Início</a></li>
+    <li><a href="#">Sobre a Hello Kitty</a></li>
+    <li><a href="#">Galeria</a></li>
+    <li><a href="#">Músicas</a></li>
+    <li><a href="#">Contato</a></li>
+  </ul>
+
+  <h2>💖 Quem é a Hello Kitty?</h2>
+  <p>Ela é uma gatinha muito fofa criada pela Sanrio. Adora espalhar alegria e amizade!</p>
+
+  <h2>🎵 Músicas Fofas</h2>
+  <p>Monte sua própria playlist com músicas que lembram o mundo rosa da Hello Kitty!</p>
+
+  <h2>🖼️ Galeria</h2>
+  <p>Veja imagens da Hello Kitty e seus amigos!</p>
+  <img src="imagens/hello-kitty-exemplo.jpg" alt="Hello Kitty" width="300">
+
+  <hr>
+
+  <p>Site criado por: Marina Victoria</p>
+  <p>Data: 05/08/2025</p>
+
+</body>
+</html>
